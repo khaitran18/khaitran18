@@ -13,10 +13,9 @@ Welcome to me 🙋‍♂️
 > About me: </br>
 
 - I'm currently studying at FPTU 🏫</br>
-- I mainly using .Net now but I also have some what bit of experience with Spring Boot </br>
+- I mainly using .Net now but I also have somewhat bit of experience with Spring Boot </br>
 - I also do video editing for a hobby 🎥</br>
 - Don't hesitate to DM me for anything 😊</br>
-<br>
 <div>
 > You can find me here:
        <a href="https://www.instagram.com/khai_scotty/" target="_blank">
@@ -26,7 +25,6 @@ Welcome to me 🙋‍♂️
          <img alt="Facebook" width="32px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
        </a>
 </div>
-  </div>
   <div>
      ### Languages and Tools:
      <div>
@@ -38,17 +36,10 @@ Welcome to me 🙋‍♂️
         <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
      </div>
   </div>
-</div>
-
 <br />
 <br />
 <br />
 <br />
-
-<p align="center">
- <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="madlife's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khaitran18&theme=tokyonight&hide_border=true"/>
-</p>
-
 📊 My GitHub Stats:
 
 <p align="center">
